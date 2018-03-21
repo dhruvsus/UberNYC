@@ -1,0 +1,30 @@
+[NbGraderApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | INFO] Source: /home/dhruvsus/project
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/dhruvsus+project+2018-03-20 12:32:08.166847 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment project:
+    Expected:
+    	ProjectGuidelines.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/ProjectGuidelines-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/Untitled-checkpoint.ipynb: EXTRA
+    	EDA.ipynb: EXTRA
+    	Introduction.ipynb: EXTRA
+    	Modeling.ipynb: EXTRA
+    	Presentation.ipynb: EXTRA
+    	ProjectGuidelines.ipynb: OK
+    	Tidy.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/Clean and Tidy-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/EDA-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/Introduction-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/Modeling-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/Presentation-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/ProjectGuidelines-checkpoint.ipynb: EXTRA
+    	UberNYC/.ipynb_checkpoints/Tidy-checkpoint.ipynb: EXTRA
+    	UberNYC/EDA.ipynb: EXTRA
+    	UberNYC/Introduction.ipynb: EXTRA
+    	UberNYC/Modeling.ipynb: EXTRA
+    	UberNYC/Presentation.ipynb: EXTRA
+    	UberNYC/ProjectGuidelines.ipynb: EXTRA
+    	UberNYC/Tidy.ipynb: EXTRA
+[SubmitApp | INFO] Submitted as: data301 project 2018-03-20 12:32:08.166847 UTC
